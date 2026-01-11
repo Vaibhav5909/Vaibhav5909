@@ -30,7 +30,7 @@ Results-driven **operations and analytics professional** with hands-on experienc
 ## 🏢 Experience
 
 ### **Flipkart Internet Pvt. Ltd.**
-**Senior Operation Executive – Category Business Analyst**  
+**Senior Operation Executive **  
 📍 Bangalore | 🗓 Apr 2024 – Present  
 
 - Performance analysis for large-scale business and sales initiatives  
@@ -64,7 +64,7 @@ Results-driven **operations and analytics professional** with hands-on experienc
 ---
 
 ## 🎓 Education
-**PGDM – Marketing & Operations**  
+**PGDM – Marketing & Data Analytics**  
 GL Bajaj Institute of Management & Research  
 
 **Bachelor of Business Administration**  
