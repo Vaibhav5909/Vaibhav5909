@@ -85,10 +85,9 @@ Sardar Patel University
 
 ---
 
-## Portfolio Project
+## Portfolio Projects
 
-<h3 align="center">Call Center Data Analysis Dashboard</h3>
-
+### 📊 Call Center Data Analysis Dashboard
 <p align="center">
   <img src="./Call%20Center%20Data%20Analysis.png" width="80%" />
 </p>
@@ -99,7 +98,19 @@ Sardar Patel University
 
 ---
 
+### 📱 Mobile Sales Performance Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaibhav5909/Vaibhav5909/main/Mobile%20Sales%20Dash%20board.png" width="80%" />
+</p>
+
+<p align="center">
+  Power BI dashboard providing insights into mobile sales performance, brand-wise contribution, monthly trends, revenue distribution, and key KPIs to support data-driven business decisions.
+</p>
+
+---
+
 <p align="center">
   <i>Data is only powerful when it drives action.</i>
 </p>
+
 
